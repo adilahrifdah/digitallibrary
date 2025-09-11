@@ -6,7 +6,7 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ## Koleksi
 1. [Olimpus](Revisi RUNDOWN_ACARA_OLIMPUS_BADMINTON[1].pdf) - Mikat HMPS (2025)
-2. [Bulan](Bulan.pdf) - Hanum Salsabiela Rais (2014)
+2. [Bulan](ebook/Bulan.pdf) - Hanum Salsabiela Rais (2014)
 3. 
 ---
 
