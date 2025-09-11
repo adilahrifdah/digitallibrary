@@ -9,7 +9,8 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [Bulan](ebook/Bulan.pdf) - Hanum Salsabiela Rais (2014)
 3. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
-5. 
+5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
+6. 
 ---
 
 *Powered by GitHub Pages*
