@@ -10,7 +10,8 @@ Berikut ini adalah koleksi yang dimiliki:
 3. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
-6. 
+6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
+7. 
 ---
 
 *Powered by GitHub Pages*
