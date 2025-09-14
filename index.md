@@ -11,7 +11,8 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
-7. 
+7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
+8. 
 ---
 
 *Powered by GitHub Pages*
