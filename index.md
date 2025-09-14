@@ -11,7 +11,7 @@ Berikut ini adalah koleksi yang dimiliki:
 4. [mariposa](ebook/mariposa.pdf) - Luluk HF (2021)
 5. [Daun Yang Jatuh Tak Pernah Membenci Angin](ebook/Daun Yang Jatuh Tak Pernah Membenci Angin.pdf) - Tere Liye (2018)
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
-7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
+7. [Laut Tengah](ebook/Laut Tengah.pdf) - Berliana Kimberly (2022)
 8. [Laut Bercerita](ebook/laut bercerita.pdf) - Leila S. Chudori (2017)
 9. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2015)
 10. [Ringkasan Materi VR](ebook/Ringkasan Materi VR Rifdah.pdf) - Rifdah Adilah (2025)
