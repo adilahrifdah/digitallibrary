@@ -5,7 +5,7 @@ Selamat Datang Di Perpustakaan Digital
 Berikut ini adalah koleksi yang dimiliki:
 
 ## Koleksi
-1. [Olimpus](ebook/((revisi) RUNDOWN_ACARA_OLIMPUS_BADMINTON[1].pdf) - Mikat HMPS (2025)
+1. [E-Sport Olimpus](ebook/Jobdesc E-Sport Olimpus 2025.pdf) - Mikat HMPS (2025)
 2. [Bulan](ebook/Bulan.pdf) - Hanum Salsabiela Rais (2014)
 3. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
