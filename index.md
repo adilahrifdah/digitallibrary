@@ -6,7 +6,7 @@ Berikut ini adalah koleksi yang dimiliki:
 
 ## Koleksi
 1. [E-Sport Olimpus](ebook/Jobdesc E-Sport Olimpus 2025.pdf) - Mikat HMPS (2025)
-2. [Bulan](ebook/Bulan.pdf) - Hanum Salsabiela Rais (2014)
+2. [Bulan Terbelah di Langit Amerika](ebook/Bulan.pdf) - Hanum Salsabiela Rais (2014)
 3. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
