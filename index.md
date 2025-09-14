@@ -9,7 +9,7 @@ Berikut ini adalah koleksi yang dimiliki:
 2. [Bulan Terbelah di Langit Amerika](ebook/Bulan.pdf) - Hanum Salsabiela Rais (2014)
 3. [Ayah](ebook/Ayah.pdf) - Andrea Hirata (2015)
 4. [Matahari](ebook/Matahari.pdf) - Tere Liye (2016)
-5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
+5. [Daun Yang Jatuh Tak Pernah Membenci Angin](ebook/Daun Yang Jatuh Tak Pernah Membenci Angin.pdf) - Tere Liye (2018)
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
 7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
 8. [Negeri di ujung tanduk](ebook/Negeri di ujung tanduk.pdf) - Tere Liye (2013)
