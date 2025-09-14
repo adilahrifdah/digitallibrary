@@ -12,8 +12,8 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [Laskar Pelangi](ebook/Laskar Pelangi.pdf) - Andrea Hirata (2005)
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
 7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
-8. [Negeri di ujung tanduk](ebook/Negeri di ujung tanduk) - Tere Liye (2013)
-9. [Bumi](ebook/Bumi) - Tere Liye (2014)
+8. [Negeri di ujung tanduk](ebook/Negeri di ujung tanduk.pdf) - Tere Liye (2013)
+9. [Bumi](ebook/Bumi.pdf) - Tere Liye (2014)
 10. 
 ---
 
