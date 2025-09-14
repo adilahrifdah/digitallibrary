@@ -12,7 +12,7 @@ Berikut ini adalah koleksi yang dimiliki:
 5. [Daun Yang Jatuh Tak Pernah Membenci Angin](ebook/Daun Yang Jatuh Tak Pernah Membenci Angin.pdf) - Tere Liye (2018)
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
 7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
-8. [Negeri di ujung tanduk](ebook/Negeri di ujung tanduk.pdf) - Tere Liye (2013)
+8. [Laut Bercerita](ebook/laut bercerita.pdf) - Leila S. Chudori (2017)
 9. [Bumi](ebook/Bumi.pdf) - Tere Liye (2014)
 10. [Ringkasan Materi VR](ebook/Ringkasan Materi VR Rifdah.pdf) - Rifdah Adilah (2025)
 
