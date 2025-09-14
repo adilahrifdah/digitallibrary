@@ -13,7 +13,7 @@ Berikut ini adalah koleksi yang dimiliki:
 6. [Dunia Sophie](ebook/Dunia Sophie.pdf) - Jostein Gaarder (2014)
 7. [Tentang Kamu](ebook/Tentang Kamu.pdf) - Tere Liye (2016)
 8. [Laut Bercerita](ebook/laut bercerita.pdf) - Leila S. Chudori (2017)
-9. [Bumi](ebook/Bumi.pdf) - Tere Liye (2014)
+9. [Cantik itu Luka](ebook/Cantik itu Luka.pdf) - Eka Kurniawan (2015)
 10. [Ringkasan Materi VR](ebook/Ringkasan Materi VR Rifdah.pdf) - Rifdah Adilah (2025)
 
 
